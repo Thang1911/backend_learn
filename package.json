@@ -1,0 +1,26 @@
+{
+  "name": "learn-backend",
+  "version": "1.0.0",
+  "description": "learn backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thang1911/backend_learn.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "thang1911",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thang1911/backend_learn/issues"
+  },
+  "homepage": "https://github.com/Thang1911/backend_learn#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
